@@ -1,0 +1,5 @@
+name: commonplace
+version: 0.1.0
+description: "Commonplace — local-first curated memory in plain files: verbatim standing rules, facts/decisions/open items, lexical recall, and a fail-closed checkpoint that archives every conversation before Hermes may compress it. No cloud, no API keys, no dependencies."
+config_keys:
+  - memory.commonplace
